@@ -12,14 +12,16 @@
 | 항목 | 버전 |
 |---|---|
 | OS | Windows 11 |
-| Unity Editor | (확정 예정) |
-| Unity Hub | (확정 예정) |
-| Unity CLI | (확정 예정) |
-| Unity Pipeline 패키지 | (확정 예정) |
-| Claude Code | (확정 예정) |
-| Unity 공식 Claude Code Plugin | (확정 예정) |
+| Unity Editor | 6000.3.26f1 (Unity 6.3 LTS) |
+| Unity CLI | 1.0.0-beta.13 |
+| Unity Pipeline 패키지 (com.unity.pipeline) | 0.8.0-exp.1 |
+| Claude Code | 2.1.296 |
+| Unity 공식 Claude Code Plugin (unity@unity-agent-plugin) | 0.1.8-beta |
+| 프로젝트 템플릿 | com.unity.template.universal-2d (Universal 2D) |
 
-책의 모든 명령은 위 버전 조합을 기준으로 실행해 확인했습니다. 다른 버전에서는 명령이나 출력이 다를 수 있습니다.
+Unity Hub는 사용하지 않습니다. Editor 설치부터 프로젝트 생성까지 Unity CLI만으로 진행합니다.
+
+책의 명령은 위 버전 조합을 기준으로 실행해 확인합니다. Unity CLI·Pipeline·플러그인은 베타·실험 단계라 다른 버전에서는 명령이나 출력이 다를 수 있습니다.
 
 ## 실습 구성
 
