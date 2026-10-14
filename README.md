@@ -17,7 +17,7 @@
 | Unity Editor | 6000.3.26f1 (Unity 6.3 LTS) |
 | Unity CLI | 1.0.0-beta.13 |
 | Unity Pipeline 패키지 (com.unity.pipeline) | 0.8.0-exp.1 |
-| Claude Code | 2.1.296 |
+| Claude Code | 2.1.299 (1~4장 실습은 2.1.296) |
 | Unity 공식 Claude Code Plugin (unity@unity-agent-plugin) | 0.1.8-beta |
 | 프로젝트 템플릿 | com.unity.template.universal-2d (Universal 2D) |
 
