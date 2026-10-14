@@ -2,7 +2,7 @@
 
 위키독스 책 **《Unity AI 게임 개발 따라하기》 — Unity CLI와 Claude Code로 게임 만들기**의 실습 자료 저장소입니다.
 
-<a href="https://wikidocs.net/book/21663"><img src="assets/book-cover.png" alt="Unity AI 게임 개발 따라하기 책 표지" width="300"></a>
+<a href="https://wikidocs.net/book/21663"><img src="assets/book-cover-v2.png" alt="Unity AI 게임 개발 따라하기 책 표지" width="300"></a>
 
 - 책: https://wikidocs.net/book/21663
 - Unity 공식 Claude Code Plugin: https://github.com/Unity-Technologies/unity-agent-plugin
